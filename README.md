@@ -103,7 +103,7 @@
 ---
 
 ## 📚 **Ресурсы и ссылки**
-- 📊 [Kaggle: Датасет на Kaggle]((https://www.kaggle.com/code/debs2x/games-on-steam)])
+- 📊 [Kaggle: Датасет на Kaggle](https://www.kaggle.com/code/debs2x/games-on-steam)
 - 🔗 [GitHub Репозиторий](https://github.com/S2xc/games-on-steam.git)
 
 ---
